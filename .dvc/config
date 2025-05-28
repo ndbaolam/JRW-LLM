@@ -1,0 +1,7 @@
+[core]
+    remote = jrw
+['remote "jrw"']
+    url = gdrive://1mW4kAyWTsTVlI6HVhre0m87-z5niTEX-
+    gdrive_use_service_account = true
+    gdrive_acknowledge_abuse = true
+    gdrive_service_account_json_file_path = ../prefab-gift-457313-r5-47a35baed6a9.json
